@@ -1,0 +1,53 @@
+Blue Team Tips
+  Recover metadata from PDF files (https://twitter.com/flakpaket/status/1654617325520433152)
+Network Discovery and Mapping
+-
+Vulnerability Management
+  Qualys
+  Lynis
+  BugCrowd
+Security Monitoring
+  Canary Tokens https://www.canarytokens.org/generate
+  https://github.com/clong/DetectionLab
+  OSquery + Kolide Fleet
+  Splunk
+  ElastAlert
+Threat Tools and Techniques
+  https://github.com/last-byte/PersistenceSniper
+  https://github.com/PowerShell/JEA
+  https://github.com/Cyber-Buddy/APKHunt
+  https://github.com/Neo23x0/Loki
+  https://github.com/Infocyte/PSHunt
+  https://github.com/Security-Onion-Solutions/securityonion/
+  https://github.com/davehull/Kansa
+  https://github.com/mitmproxy/mitmproxy
+Threat Intelligence
+  ThreatCrowd
+  OTX AlienVault
+Incident Response Planning
+  https://gitlab.com/syntax-ir/playbooks
+  https://github.com/certsocietegenerale/IRM
+  https://github.com/CybercentreCanada/assemblyline-base
+  Business Continuity Plan
+  Insider Threat Response Plan
+  Physical Security Plan
+  https://github.com/TheHive-Project/TheHive
+Malware Detection and Analysis
+  PSUnveil
+  https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
+  https://github.com/skylot/jadx
+  https://github.com/d4rksystem/VBoxCloak
+Data Recovery
+  https://github.com/CIRCL/Circlean
+Digital Forensics
+  https://github.com/e-m-b-a/emba
+  Volatility
+Security Awareness Training
+  KnowBe4
+  Wombat Security
+  Imersivelabs
+Communication and Collaboration
+  https://twitter.com/malmoeb
+  ArcSight SIEM
+  LogRhythm SIEM
+  AlienVault USM SIEM
