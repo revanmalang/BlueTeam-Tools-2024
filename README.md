@@ -101,6 +101,7 @@ Some of the tools may be specifically designed for blue teaming, while others ar
     <ul>
         <ul>
             <li><b><a href="#maltego">Maltego</a></b><i> Threat Intelligence Platform</i></li>
+	    <li><b><a href="#Hudson Rock">Hudson Rock</a></b><i> Threat Intelligence Platform</i></li>
             <li><b><a href="#misp">MISP</a></b><i> Malware Information Sharing Platform</i></li>
             <li><b><a href="#threatconnect">ThreatConnect</a></b><i> Threat data aggregation</i></li>
             <li><b><a href="#adversary-emulation-library">Adversary Emulation Library</a></b><i> An open library of adversary emulation plans</i></li>
@@ -1085,6 +1086,12 @@ You can schedule a demo [here](https://www.maltego.com/get-a-demo/).
 ![image](https://user-images.githubusercontent.com/100603074/210655712-e1409206-de1d-4601-88a5-f5a6ac3928c7.png)
 
 *Image used from https://www.maltego.com/reduce-your-cyber-security-risk-with-maltego/*
+
+### [🔙](#tool-list)[Hudson Rock](https://www.hudsonrock.com)
+
+Hudson Rock is a cybercrime intelligence company that collects data from computers infected by the Infostealer malware. Our complimentary community toolset is open to check if an email address, username or domain was affected in this malware infection.  
+
+Free cybercrime intelligence toolset [here](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools).
 
 ### [🔙](#tool-list)[MISP](https://www.misp-project.org/)
 
