@@ -101,6 +101,7 @@ Some of the tools may be specifically designed for blue teaming, while others ar
     <ul>
         <ul>
             <li><b><a href="#maltego">Maltego</a></b><i> Threat Intelligence Platform</i></li>
+	    <li><b><a href="#hudsonrock">Hudson Rock</a></b><i> Cybercrime Intelligence Free Tools</i></li>
             <li><b><a href="#misp">MISP</a></b><i> Malware Information Sharing Platform</i></li>
             <li><b><a href="#threatconnect">ThreatConnect</a></b><i> Threat data aggregation</i></li>
             <li><b><a href="#adversary-emulation-library">Adversary Emulation Library</a></b><i> An open library of adversary emulation plans</i></li>
